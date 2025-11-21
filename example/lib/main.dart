@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
     return LocalizationProvider(
       state: LocalizationProvider.of(context).state,
       child: MaterialApp(
-        title: 'Flutter Translate Demo',
+        title: 'Flutter Easy Translate',
         localizationsDelegates: [
           GlobalMaterialLocalizations.delegate,
           GlobalWidgetsLocalizations.delegate,

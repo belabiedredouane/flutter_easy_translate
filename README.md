@@ -7,7 +7,7 @@
 
 ---
 
-Flutter Translate is a fully featured localization / internationalization (i18n) library for Flutter.
+Flutter Easy Translate is a fully featured localization / internationalization (i18n) library for Flutter.
 
 It lets you define translations for your content in different languages and switch between them easily.
 
@@ -94,7 +94,7 @@ class MyApp extends StatelessWidget {
     return LocalizationProvider(
       state: LocalizationProvider.of(context).state,
       child: MaterialApp(
-        title: 'Flutter Translate Demo',
+        title: 'Flutter Easy Translate',
         localizationsDelegates: [
           GlobalMaterialLocalizations.delegate,
           GlobalWidgetsLocalizations.delegate,
