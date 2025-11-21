@@ -1,5 +1,5 @@
 
-[<img src="resources/images/flutter_easy_translate.png" />](https://github.com/belabiedredouane/flutter_easy_translate)
+[<img src="https://github.com/belabiedredouane/flutter_easy_translate/blob/main/resources/images/flutter_easy_translate.png" />](https://github.com/belabiedredouane/flutter_easy_translate)
 
 [![pub package](https://img.shields.io/pub/v/flutter_easy_translate.svg?color=important)](https://pub.dev/packages/flutter_easy_translate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-ff69b4.svg)](https://github.com/belabiedredouane/flutter_easy_translate/blob/main/LICENSE)
