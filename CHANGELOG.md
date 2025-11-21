@@ -8,4 +8,8 @@
 
 ## [1.0.2]
 
-- Correct image path
+- Correct image path.
+
+## [1.0.3]
+
+- Correct static analysis issues.
