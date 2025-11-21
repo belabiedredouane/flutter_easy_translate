@@ -172,7 +172,7 @@ Example implementation using the [shared_preferences](https://pub.dev/packages/s
 
 ```dart
 import 'dart:ui';
-import 'package:flutter_translate/flutter_translate.dart';
+import 'package:flutter_easy_translate/flutter_easy_translate.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class TranslatePreferences implements ITranslatePreferences
