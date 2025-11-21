@@ -218,3 +218,7 @@ Please file any issues, bugs or feature request [here](https://github.com/belabi
 ## License
 
 This project is licensed under the [MIT License](https://github.com/belabiedredouane/flutter_easy_translate/blob/main/LICENSE)
+
+## Maintainers
+
+- [Belabied Redouane](https://github.com/belabiedredouane)
