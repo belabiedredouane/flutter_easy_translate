@@ -13,3 +13,7 @@
 ## [1.0.3]
 
 - Correct static analysis issues.
+
+## [1.0.4]
+
+- Update readme file.
