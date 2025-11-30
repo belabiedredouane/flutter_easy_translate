@@ -6,6 +6,8 @@
 [![Flutter.io](https://img.shields.io/badge/Flutter-Website-deepskyblue.svg)](https://flutter.io/)
 
 ---
+# Flutter Easy Translate
+⚠️ This is a maintained and enhanced fork of the original [Flutter Translate](https://github.com/Jesway/flutter_translate) created by Jesway Labs, LLC, licensed under the MIT License. This project builds upon the solid foundation of the original Flutter Translate, adding new features, improvements, and ongoing maintenance.
 
 Flutter Easy Translate is a fully featured localization / internationalization (i18n) library for Flutter.
 
@@ -14,7 +16,7 @@ It lets you define translations for your content in different languages and swit
 # Features
 
 * Very easy to use
-* ```Mobile```, ```Web``` and ```Desktop``` support
+* ```Mobile``` and ```Desktop``` support
 * ```Pluralization``` and ```Duals``` support 
 * Supports both ``languageCode (en)`` and ``languageCode_countryCode (en_US)`` locale formats 
 * Automatically ```save & restore``` the selected locale [with a simple implementation](#automatically-saving-and-restoring-the-selected-locale)
@@ -25,6 +27,7 @@ It lets you define translations for your content in different languages and swit
 # Documentation
 
 ## Installation
+For the most up-to-date setup steps, see the [Installation Guide](https://pub.dev/packages/flutter_easy_translate/install).
 
 Add this to your package's pubspec.yaml file:
 
@@ -38,6 +41,8 @@ Install packages from the command line (or from your editor):
 ```sh
 flutter pub get
 ```
+
+
 
 ## Configuration
 
