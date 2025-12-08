@@ -1,17 +1,19 @@
 
-[<img src="https://github.com/belabiedredouane/flutter_easy_translate/raw/main/resources/images/flutter_easy_translate.png" />](https://github.com/belabiedredouane/flutter_easy_translate)
+<p align="center"><a href="https://github.com/belabiedredouane/flutter_easy_translate"><img src="https://github.com/belabiedredouane/flutter_easy_translate/raw/main/resources/images/flutter_easy_translate.png" /></a></p>
+<h1 align="center"> 
+Fully featured localization / internationalization (i18n) library for Flutter.
+</h1>
 
 [![pub package](https://img.shields.io/pub/v/flutter_easy_translate.svg?color=important)](https://pub.dev/packages/flutter_easy_translate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-ff69b4.svg)](https://github.com/belabiedredouane/flutter_easy_translate/blob/main/LICENSE)
 [![Flutter.io](https://img.shields.io/badge/Flutter-Website-deepskyblue.svg)](https://flutter.io/)
 
----
 # Flutter Easy Translate
-⚠️ This is a maintained and enhanced fork of the original [Flutter Translate](https://github.com/Jesway/flutter_translate) created by Jesway Labs, LLC, licensed under the MIT License. This project builds upon the solid foundation of the original Flutter Translate, adding new features, improvements, and ongoing maintenance.
-
 Flutter Easy Translate is a fully featured localization / internationalization (i18n) library for Flutter.
 
 It lets you define translations for your content in different languages and switch between them easily.
+
+⚠️ This is a maintained and enhanced fork of the original [Flutter Translate](https://github.com/Jesway/flutter_translate) created by Jesway Labs, LLC, licensed under the MIT License. This project builds upon the solid foundation of the original Flutter Translate, adding new features, improvements, and ongoing maintenance.
 
 # Features
 
@@ -213,17 +215,17 @@ dependencies:
   shared_preferences: <latest version>
 ```
 
-## Example
+# Example
 
 https://github.com/belabiedredouane/flutter_easy_translate/tree/main/example
 
-## Issues
+# Issues
 Please file any issues, bugs or feature request [here](https://github.com/belabiedredouane/flutter_easy_translate/issues).
 
-## License
+# License
 
 This project is licensed under the [MIT License](https://github.com/belabiedredouane/flutter_easy_translate/blob/main/LICENSE)
 
-## Maintainers
+# Maintainers
 
 - [Belabied Redouane](https://github.com/belabiedredouane)

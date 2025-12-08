@@ -109,7 +109,7 @@ class LocalizationDelegate extends LocalizationsDelegate<Localization> {
 
   Future _loadDeviceLocale() async {
     try {
-      var locale = getCurrentLocale();
+      var locale = await getCurrentLocale();
 
       if (locale != null) {
         await changeLocale(locale);
