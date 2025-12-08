@@ -18,7 +18,7 @@ It lets you define translations for your content in different languages and swit
 # Features
 
 * Very easy to use
-* ```Mobile``` and ```Desktop``` support
+* ```Mobile```, ```Web``` and ```Desktop``` support
 * ```Pluralization``` and ```Duals``` support 
 * Supports both ``languageCode (en)`` and ``languageCode_countryCode (en_US)`` locale formats 
 * Automatically ```save & restore``` the selected locale [with a simple implementation](#automatically-saving-and-restoring-the-selected-locale)
