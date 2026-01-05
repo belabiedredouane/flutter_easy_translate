@@ -1,3 +1,7 @@
+## [1.0.7]
+
+- Updating platforms (Android, ios and web) of example.
+
 ## [1.0.6]
 
 - Add `Web` support.
