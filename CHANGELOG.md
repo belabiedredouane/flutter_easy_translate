@@ -1,3 +1,7 @@
+## [1.0.8]
+
+- Update `README`.
+
 ## [1.0.7]
 
 - Updating platforms (Android, ios and web) of example.

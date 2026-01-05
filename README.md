@@ -66,6 +66,19 @@ flutter:
     - assets/i18n/
 ```
 
+Ensure that flutter_localizations is added to ```pubspec.yaml``` if it is not already present.
+
+```sh
+flutter_localizations: # Add this line
+    sdk: flutter
+```
+
+And import it 
+
+```dart
+import 'package:flutter_localizations/flutter_localizations.dart';
+```
+
 In the main function create the localization delegate and start the app, wrapping it with LocalizedApp
 
 ```dart
@@ -105,6 +118,7 @@ class MyApp extends StatelessWidget {
         localizationsDelegates: [
           GlobalMaterialLocalizations.delegate,
           GlobalWidgetsLocalizations.delegate,
+          GlobalCupertinoLocalizations.delegate,
           localizationDelegate
         ],
         supportedLocales: localizationDelegate.supportedLocales,
@@ -141,11 +155,11 @@ JSON:
 
 ```json
 "plural": {
-    "demo": {
-       "zero": "Please start pushing the 'plus' button.",
-	"one": "You have pushed the button one time.",
-	"two": "You have pushed the button two times.",
-	"other": "You have pushed the button {{value}} times."
+      "demo": {
+      "zero": "Please start pushing the 'plus' button.",
+      "one": "You have pushed the button one time.",
+      "two": "You have pushed the button two times.",
+      "other": "You have pushed the button {{value}} times."
     }
 }
 ```
